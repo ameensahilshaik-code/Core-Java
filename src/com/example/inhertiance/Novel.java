@@ -1,7 +1,6 @@
 package com.example.inhertiance;
 
-public class Novel extends Book {
-    int pages;
+public class Novel extends Book {    int pages;
 
     void displayNovel() {
         displayInfo();
